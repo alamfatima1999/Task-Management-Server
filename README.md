@@ -27,6 +27,9 @@ Back-End - Deployed on https://task-management-server-mrnr.onrender.com
 
 Database - Using MongoDB Free Cluster
 
+# PLEASE NOTE:
+All code deployed on open & free resources. May take few minutes to spin up instances when accessed.
+
 ##  API's
 
 We have configure two routes:
